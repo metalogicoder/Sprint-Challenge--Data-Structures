@@ -7,3 +7,5 @@
    - **Hash Table**: O(1)
    - **Binary Search Trees**: O(log n)
 2. What are some advantages to using a Hash Tables over an array in JavaScript?
+  Hash Tables have a much faster look up time which helps greatly when 
+  dealing with large data sets.
